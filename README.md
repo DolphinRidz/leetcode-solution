@@ -3,4 +3,4 @@
 git status
 git add .
 git commit -m "COMMIT message"
-git push -m origin main
+git push -u origin main
